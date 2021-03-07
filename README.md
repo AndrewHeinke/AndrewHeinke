@@ -27,6 +27,6 @@ I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 i
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-[![Andrew Heinke's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewHeinke)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrew Heinke's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewHeinke)](https://github.com/AndrewHeinke)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHeinke&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewHeinke&langs_count=3)](https://github.com/AndrewHeinke)
