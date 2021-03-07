@@ -4,7 +4,11 @@
 
 I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 into code.
 
-<h3>Code and Tools</h3>
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [andrew.j.heinke@gmail.com](mailto:andrew.j.heinke@gmail.com)
+- 📝 [Resume](https://www.dropbox.com/s/199vhkznxsz3s3c/Andrew-Heinke-Resume.pdf)
+
+### Code and Tools
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -23,6 +27,3 @@ I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 i
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [andrew.j.heinke@gmail.com](mailto:andrew.j.heinke@gmail.com)
-- 📝 [Resume](https://www.dropbox.com/s/199vhkznxsz3s3c/Andrew-Heinke-Resume.pdf)
