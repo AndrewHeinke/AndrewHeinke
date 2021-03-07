@@ -1,6 +1,6 @@
-<img src="https://www.codewars.com/users/AndrewHeinke/badges/small" alt="andew heinke codewars badge" />
 
-## Hey there, I'm Andrew Heinke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> <img align="right" src="https://komarev.com/ghpvc/?username=AndrewHeinke&color=44cc11&style=flat-square&label=Views">
+
+## Hey there, I'm Andrew Heinke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> <img src="https://www.codewars.com/users/AndrewHeinke/badges/micro" alt="andew heinke codewars badge" align="right" /><img align="right" src="https://komarev.com/ghpvc/?username=AndrewHeinke&color=44cc11&style=flat-square&label=Views">
 
 I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 into code.
 
