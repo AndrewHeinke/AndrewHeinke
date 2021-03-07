@@ -1,10 +1,8 @@
-<img src="https://www.codewars.com/users/AndrewHeinke/badges/large" alt="andew heinke codewars badge" />
+<img src="https://www.codewars.com/users/AndrewHeinke/badges/small" alt="andew heinke codewars badge" />
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+### Hey there, I'm Andrew Heinke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px"> <img align="right" src="https://komarev.com/ghpvc/?username=AndrewHeinke&color=44cc11&style=flat-square&label=Views">
 
-My name is Andrew Heinke and I am a Front End Software Engineer currently living in Austin, TX.
-
-> I turn 🌮 into code.
+I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 into code.
 
 <h3>Code and Tools</h3>
 <p>
@@ -28,12 +26,3 @@ My name is Andrew Heinke and I am a Front End Software Engineer currently living
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [andrew.j.heinke@gmail.com](mailto:andrew.j.heinke@gmail.com)
 - 📝 [Resume](https://www.dropbox.com/s/199vhkznxsz3s3c/Andrew-Heinke-Resume.pdf)
-
-My Skills
-```text
-HTML              ██████████     100.00%
-CSS               ██████████     100.00%
-JavaScript        █████████░     90.00%
-React             ████████░░     85.00%
-Singing           █░░░░░░░░░     10.00%
-```
