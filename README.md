@@ -6,7 +6,7 @@ I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 i
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [andrew.j.heinke@gmail.com](mailto:andrew.j.heinke@gmail.com)
-- 📝 [Resume](https://www.dropbox.com/s/199vhkznxsz3s3c/Andrew-Heinke-Resume.pdf)
+- 📝 [Resume](https://www.andrewheinke.com/resume)
 
 ### Find me on the Internet
 [![Linkedin Badge](https://img.shields.io/badge/-andrewheinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewheinke/)](https://www.linkedin.com/in/andrewheinke/)
