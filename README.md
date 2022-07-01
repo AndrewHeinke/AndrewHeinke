@@ -2,6 +2,7 @@
 
 ## Hey there, I'm Andrew Heinke <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px"> <img src="https://www.codewars.com/users/AndrewHeinke/badges/micro" alt="andew heinke codewars badge" align="right" /><img align="right" src="https://komarev.com/ghpvc/?username=AndrewHeinke&color=44cc11&style=flat-square&label=Views">
 
+
 I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 into code.
 
 - 💬 Ask me about anything, I am happy to help
@@ -12,6 +13,9 @@ I am a Front End Software Engineer currently living in Austin, TX. I turn 🌮 i
 [![Linkedin Badge](https://img.shields.io/badge/-andrewheinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewheinke/)](https://www.linkedin.com/in/andrewheinke/)
 [![Instagram Badge](https://img.shields.io/badge/-@andrewheinke-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andrewheinke/)](https://www.instagram.com/andrewheinke/)
 [![Youtube Badge](https://img.shields.io/badge/-andrewheinke-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCXsSYqOrsKggZhkWnvBLB5Q)](https://www.youtube.com/channel/UCXsSYqOrsKggZhkWnvBLB5Q)
+
+### LeetCode
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fandrewheinke&logo=leetcode&logoColor=yellow">
 
 
 
